@@ -1,0 +1,12 @@
+POST http://127.0.0.1:7002/add
+
+# Content-Type: application/json
+
+
+# {
+#     "name":"小红",
+#     "age":18
+# }
+
+Content-Type: application/x-www-form-urlencoded
+name=fagege
